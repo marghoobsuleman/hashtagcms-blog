@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "235bc7038518f131e272a4cbef49a81d",
+    "content-hash": "88b1059a600df8f38dc72daa2ed772a4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2055,16 +2055,16 @@
         },
         {
             "name": "marghoobsuleman/hashtagcms",
-            "version": "v1.1.9",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/marghoobsuleman/hashtagcms.git",
-                "reference": "24be29e4a4d378eb112f5c8b6b2b826ff7e8e2e5"
+                "reference": "60f6baa739a63f94a88f7a52677f53b64bba390e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/marghoobsuleman/hashtagcms/zipball/24be29e4a4d378eb112f5c8b6b2b826ff7e8e2e5",
-                "reference": "24be29e4a4d378eb112f5c8b6b2b826ff7e8e2e5",
+                "url": "https://api.github.com/repos/marghoobsuleman/hashtagcms/zipball/60f6baa739a63f94a88f7a52677f53b64bba390e",
+                "reference": "60f6baa739a63f94a88f7a52677f53b64bba390e",
                 "shasum": ""
             },
             "require": {
@@ -2121,9 +2121,9 @@
             ],
             "support": {
                 "issues": "https://github.com/marghoobsuleman/hashtagcms/issues",
-                "source": "https://github.com/marghoobsuleman/hashtagcms/tree/v1.1.9"
+                "source": "https://github.com/marghoobsuleman/hashtagcms/tree/v1.2.0"
             },
-            "time": "2021-08-10T08:22:36+00:00"
+            "time": "2021-08-10T11:28:46+00:00"
         },
         {
             "name": "monolog/monolog",
